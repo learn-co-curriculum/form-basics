@@ -74,4 +74,4 @@ We can also label our inputs using the `label` tag - this simply tells our user 
 </form>
 ```
 
-<a href='https://learn.co/lessons/form-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/form-basics' title='Form Basics'>Form Basics</a> on Learn.co and start learning to code for free.</p>
